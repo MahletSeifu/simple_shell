@@ -1,2 +1,2 @@
-# simple_shell
-simple_shell Project
+the practice tasks for the simple shell project
+# shell_practice-
