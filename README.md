@@ -32,8 +32,3 @@ Simple shell 0.4 +
 Implement the env built-in, that prints the current environment
 
 This project is an implementation of the shell created as the final project for the C code sprint at ALX Africa.
-
-contributor
-
-	Mahlet seifu
-	Admasu Dereje
